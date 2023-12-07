@@ -4,62 +4,40 @@ Item Code,Item
 572,Avocados
 486,Bananas
 176,"Beans, dry"
-51,"Beer of barley, malted"
-1181,Bees
-1183,Beeswax
-946,Buffalo
-949,"Buffalo fat, unrendered"
-899,"Buttermilk, dry"
 358,Cabbages
 217,"Cashew nuts, in shell"
 125,"Cassava, fresh"
 265,Castor oil seeds
-866,Cattle
-869,"Cattle fat, unrendered"
 393,Cauliflowers and broccoli
-1057,Chickens
 689,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw"
 693,"Cinnamon and cinnamon-tree flowers, raw"
 661,Cocoa beans
-252,Coconut oil
 249,"Coconuts, in shell"
 656,"Coffee, green"
-813,"Coir, raw"
-767,"Cotton lint, ginned"
-329,Cotton seed
-331,Cottonseed oil
-1068,Ducks
-948,"Edible offal of buffalo, fresh, chilled or frozen"
-868,"Edible offal of cattle, fresh, chilled or frozen"
-1018,"Edible offal of goat, fresh, chilled or frozen"
-1036,"Edible offal of pigs, fresh, chilled or frozen"
-1098,"Edible offals of horses and other equines,  fresh, chilled or frozen"
-1091,"Eggs from other birds in shell, fresh, n.e.c."
-1037,Fat of pigs
-1019,"Goat fat, unrendered"
-1016,Goats
 560,Grapes
-675,"Green tea (not fermented), black tea (fermented) and partly fermented tea"
-244,Groundnut oil
 242,"Groundnuts, excluding shelled"
 1062,"Hen eggs in shell, fresh"
 1097,"Horse meat, fresh or chilled"
-1096,Horses
+1120,"Horse meat, fresh or chilled (indigenous)"
 780,"Jute, raw or retted"
 56,Maize (corn)
 571,"Mangoes, guavas and mangosteens"
 947,"Meat of buffalo, fresh or chilled"
+972,"Meat of buffalo, fresh or chilled (indigenous)"
 867,"Meat of cattle with the bone, fresh or chilled"
+944,"Meat of cattle with the bone, fresh or chilled (indigenous)"
 1058,"Meat of chickens, fresh or chilled"
+1094,"Meat of chickens, fresh or chilled (indigenous)"
 1069,"Meat of ducks, fresh or chilled"
+1070,"Meat of ducks, fresh or chilled (indigenous)"
 1017,"Meat of goat, fresh or chilled"
+1032,"Meat of goat, fresh or chilled (indigenous)"
 1035,"Meat of pig with the bone, fresh or chilled"
+1055,"Meat of pig with the bone, fresh or chilled (indigenous)"
 79,Millet
-165,Molasses
 449,Mushrooms and truffles
 1182,Natural honey
 836,Natural rubber in primary forms
-290,Oil of sesame seed
 403,"Onions and shallots, dry (excluding dehydrated)"
 490,Oranges
 558,Other berries and fruits of the genus vaccinium n.e.c.
@@ -74,65 +52,87 @@ Item Code,Item
 574,Pineapples
 507,Pomelos and grapefruits
 116,Potatoes
-162,Raw cane or beet sugar (centrifugal only)
-957,Raw hides and skins of buffaloes
-919,Raw hides and skins of cattle
-1025,Raw hides and skins of goats or kids
 951,Raw milk of buffalo
 882,Raw milk of cattle
-1186,Raw silk (not thrown)
 27,Rice
-71,Rye
 328,"Seed cotton, unginned"
 289,Sesame seed
 1185,Silk-worm cocoons suitable for reeling
-83,Sorghum
-237,Soya bean oil
 236,Soya beans
 156,Sugar cane
 122,Sweet potatoes
-1034,Swine / pigs
-1225,Tallow
 667,Tea leaves
 826,Unmanufactured tobacco
 567,Watermelons
-897,Whole milk powder
-889,"Whole milk, condensed"
-564,Wine
-891,Yoghurt
-1806,"Beef and Buffalo Meat, primary"
-1746,Cattle and Buffaloes
+2051,Agriculture
 1717,"Cereals, primary"
-1804,"Citrus Fruit, Total"
-1783,Eggs Primary
-1816,Evaporated & Condensed Milk
-17530,"Fibre Crops, Fibre Equivalent"
+2041,Crops
+2054,Food
 1738,Fruit Primary
-1808,"Meat, Poultry"
-1765,"Meat, Total"
+2044,Livestock
+1770,"Meat indigenous, total"
 1780,"Milk, Total"
-1841,"Oilcrops, Cake Equivalent"
-1732,"Oilcrops, Oil Equivalent"
-2029,Poultry Birds
-1726,"Pulses, Total"
+2057,Non Food
 1720,"Roots and Tubers, Total"
-1807,Sheep and Goat Meat
-1749,Sheep and Goats
-1809,"Skim Milk & Buttermilk, Dry"
 1723,Sugar Crops Primary
-1729,"Treenuts, Total"
+1739,Vegetables and Fruit Primary
 1735,Vegetables Primary
-1120,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw"
-972,Avocados
-944,Bananas
-1094,"Beans, dry"
-1070,Cabbages
-1032,"Cashew nuts, in shell"
-1055,"Cassava, fresh"
-2051,Castor oil seeds
-2041,Cauliflowers and broccoli
-2054,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw"
-2044,"Cinnamon and cinnamon-tree flowers, raw"
-1770,Cocoa beans
-2057,"Coconuts, in shell"
-1739,"Coffee, green"
+51,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw"
+1181,Avocados
+1183,Bananas
+946,"Beans, dry"
+949,"Beer of barley, malted"
+899,Bees
+866,Beeswax
+869,Buffalo
+1057,"Buffalo fat, unrendered"
+252,"Buttermilk, dry"
+813,Cabbages
+767,"Cashew nuts, in shell"
+329,"Cassava, fresh"
+331,Castor oil seeds
+1068,Cattle
+948,"Cattle fat, unrendered"
+868,Cauliflowers and broccoli
+1018,Chickens
+1036,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw"
+1098,"Cinnamon and cinnamon-tree flowers, raw"
+1091,Cocoa beans
+1037,Coconut oil
+1019,"Coconuts, in shell"
+1016,"Coffee, green"
+675,"Coir, raw"
+244,"Cotton lint, ginned"
+1096,Cotton seed
+165,Cottonseed oil
+290,Ducks
+162,"Edible offal of buffalo, fresh, chilled or frozen"
+957,"Edible offal of cattle, fresh, chilled or frozen"
+919,"Edible offal of goat, fresh, chilled or frozen"
+1025,"Edible offal of pigs, fresh, chilled or frozen"
+1186,"Edible offals of horses and other equines,  fresh, chilled or frozen"
+71,"Eggs from other birds in shell, fresh, n.e.c."
+83,Fat of pigs
+237,"Goat fat, unrendered"
+1034,Goats
+1225,Grapes
+897,"Green tea (not fermented), black tea (fermented) and partly fermented tea"
+889,Groundnut oil
+564,"Groundnuts, excluding shelled"
+891,"Hen eggs in shell, fresh"
+1806,"Horse meat, fresh or chilled"
+1746,Horses
+1804,"Jute, raw or retted"
+1783,Maize (corn)
+1816,"Mangoes, guavas and mangosteens"
+17530,"Meat of buffalo, fresh or chilled"
+1808,"Meat of cattle with the bone, fresh or chilled"
+1765,"Meat of chickens, fresh or chilled"
+1841,"Meat of ducks, fresh or chilled"
+1732,"Meat of goat, fresh or chilled"
+2029,"Meat of pig with the bone, fresh or chilled"
+1726,Millet
+1807,Molasses
+1749,Mushrooms and truffles
+1809,Natural honey
+1729,Natural rubber in primary forms
